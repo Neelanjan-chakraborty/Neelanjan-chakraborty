@@ -1,10 +1,4 @@
 ### Hi there 👋
-
-<!--
-**Neelanjan-chakraborty/Neelanjan-chakraborty** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -13,10 +7,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
-<p class="codepen" data-height="300" data-default-tab="html,result" data-slug-hash="GRmRMZp" data-user="Ali-Majed" style="height: 300px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;">
-  <span>See the Pen <a href="https://codepen.io/Ali-Majed/pen/GRmRMZp">
-  Portfolio UI</a> by Ali Majid (<a href="https://codepen.io/Ali-Majed">@Ali-Majed</a>)
-  on <a href="https://codepen.io">CodePen</a>.</span>
-</p>
-<script async src="https://cpwebassets.codepen.io/assets/embed/ei.js"></script>
+
+
