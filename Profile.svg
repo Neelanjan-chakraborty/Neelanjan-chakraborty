@@ -1,6 +1,5 @@
 <svg fill="none" viewBox="0 0 800 400" width="800" height="400" xmlns="http://www.w3.org/2000/svg">
 	<foreignObject width="100%" height="100%">
-		<div xmlns="http://www.w3.org/1999/xhtml">
 			<style>
 					*{
 					  margin: 0;
@@ -137,6 +136,10 @@
 					}
 
 			</style>
+			<div class="profile-card">
+  <div class="card-header">
+    <div class="pic">
+      <img src="https://fadzrinmadu.github.io/hosted-assets/amazing-profile-card-using-only-html-and-css/pic.png" alt="">
 							 </div>
 				    <div class="name">John Doe</div>
 				    <div class="desc">Developer & Designer</div>
@@ -164,6 +167,8 @@
 				        <span>120K</span>
 				        Followers
 				      </div>
-		</div>
+				     </div>
+  </div>
+</div>
 	</foreignObject>
 </svg>
