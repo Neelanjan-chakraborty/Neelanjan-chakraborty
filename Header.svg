@@ -138,31 +138,14 @@
 
 			</style>
 							 </div>
-				    <div class="name">John Doe</div>
-				    <div class="desc">Developer & Designer</div>
-				    <div class="sm">
-				      <a href="#" class="fab fa-facebook-f"></a>
-				      <a href="#" class="fab fa-twitter"></a>
-				      <a href="#" class="fab fa-github"></a>
-				      <a href="#" class="fab fa-youtube"></a>
-				    </div>
-				    <a href="#" class="contact-btn">Contact Me</a>
-				  </div>
-				  <div class="card-footer">
-				    <div class="numbers">
-				      <div class="item">
-				        <span>120</span>
-				        Posts
-				      </div>
-				      <div class="border"></div>
-				      <div class="item">
-				        <span>127</span>
-				        Following
-				      </div>
-				      <div class="border"></div>
-				      <div class="item">
-				        <span>120K</span>
-				        Followers
+<div style="position: relative; width: 100%; height: 0; padding-top: 266.6667%;
+ padding-bottom: 48px; box-shadow: 0 2px 8px 0 rgba(63,69,81,0.16); margin-top: 1.6em; margin-bottom: 0.9em; overflow: hidden;
+ border-radius: 8px; will-change: transform;">
+  <iframe loading="lazy" style="position: absolute; width: 100%; height: 100%; top: 0; left: 0; border: none; padding: 0;margin: 0;"
+    src="https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAEkp1YFupw&#x2F;watch?embed">
+  </iframe>
+</div>
+<a href="https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAEkp1YFupw&#x2F;watch?utm_content=DAEkp1YFupw&amp;utm_campaign=designshare&amp;utm_medium=embeds&amp;utm_source=link" target="_blank" rel="noopener">Copy of pol</a> by NEELANJAN CHAKRABORTY
 				      </div>
 		</div>
 	</foreignObject>
